@@ -8,6 +8,6 @@ Then, simply go to [vivaldi://extensions](vivaldi://extensions) or [chrome://ext
 
 As long as you didn't get any errors, you should be good to go! Go vist a site with a ton of ads and notice the difference.
 
-This is a work in progress, so please feel free to send me any feedback. This list of URLs that get fed into this is ~ 37K long as of this writing, so it's likely to break a few things. Whitelisting and a few other features will be worked on in the future (or feel free to contribute).
+This is a work in progress, so please feel free to send me any feedback. This list of URLs that get fed into this is **~37K long** as of this writing, so it might break a few things. Whitelisting and a few other features will be worked on in the future (or feel free to contribute).
 
 Thanks :)
